@@ -9,8 +9,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>BB ALL REACT</p>
-        <p>HELLO REACT</p>
+        <p>BB full REACT</p>
+        <p> REACT</p>
         <p>CUCUMBERS</p>
         <p>QQQQQQQQQQQ</p>
         <a
