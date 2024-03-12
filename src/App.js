@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+// eslint-disable-next-line no-unused-vars
+import React from 'react'
 
 function App() {
   return (
@@ -11,7 +13,12 @@ function App() {
         </p>
         <p>BB full REACT</p>
         <p>CUCUMBERS</p>
-        <p>QUQUQUQ</p>
+        <p>CUCUMBERS</p>
+        <p>CUCUMBERS</p>
+
+        {/* eslint-disable-next-line react/react-in-jsx-scope */}
+        <p>DUBUQUE</p>
+        {/* eslint-disable-next-line react/react-in-jsx-scope */}
         <p>QQQQQQQQQQQ</p>
         <a
           className="App-link"
